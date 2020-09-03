@@ -1,6 +1,8 @@
 <h1 align="center"><img src="https://www.edgeatx.org/images/bleeding-edge.png"/><br/>Bleeding Edge Web</h1>
 <h5 align="center">A meetup for the discerning web app developer</h5>
 
+✪ Visit us at [edgeatx.org](https://www.edgeatx.org).
+
 ✪ View our [presentations](https://www.edgeatx.org/slides)
 
 ✪ Join the [meetup](https://www.meetup.com/bleeding-edge-web/) to be notified about new events
