@@ -7,7 +7,7 @@
 
 ✪ Join the [meetup](https://www.meetup.com/bleeding-edge-web/) to be notified about new events
 
-✪ Join our [Slack group](https://edgeatx-invite.herokuapp.com/) to engage with the community, or to participate in our live events remotely
+✪ Join our [Slack group](https://join.slack.com/t/edgeatx/shared_invite/zt-1onzae2c4-0JBegV3EvF5VV4R_MDQsUA) to engage with the community, or to participate in our live events remotely
 
 ✪ Join our [Quora space](https://www.quora.com/q/buuusacnhyuytmxw?invite_code=V5VQar181le2YyjGG5j6) to engage with the global edge community, or for recaps of prior events.
 
@@ -23,4 +23,4 @@ We meet at the offices of Aunt Bertha (near Mopac and Anderson Lane) from 6-8 pm
 
 Follow [@edgeATX](https://twitter.com/edgeatx) for news and updates.
 
-Created with 1s and 0s by [Brian](https://github.com/bmoeskau) & [Corey](https://github.com/coreybutler)
+Created with 1s and 0s by [Brian](https://github.com/bmoeskau), [Corey](https://github.com/coreybutler) &amp; [Ted](https://github.com/tedpatrick)
