@@ -17,9 +17,7 @@
 
 <h2 align="center">About Us</h2>
 
-We are an Austin, TX meetup about all things web+mobile. We are language/framework agnostic, and we cover different topics each month, with a focus on front end technology.
-
-We meet at the offices of Aunt Bertha (near Mopac and Anderson Lane) from 6-8 pm on the 4th Wednesday of each month.
+We are an Austin, TX meetup about all things web+mobile. We are language/framework agnostic, and we cover different topics each month, with a focus on front end technology. Find us on [meetup.com](https://www.meetup.com/bleeding-edge-web/) for the latest schedule and location.
 
 Follow [@edgeATX](https://twitter.com/edgeatx) for news and updates.
 
